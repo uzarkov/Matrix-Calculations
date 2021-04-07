@@ -1,0 +1,64 @@
+﻿  MiniProjekt.cpp
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(249,10): warning C4244: 'return': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(242): message : while compiling class template member function 'T Matrix<T>::operator ()(int,int)'
+          with
+          [
+              T=int
+          ]
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\MiniProjekt.cpp(51): message : see reference to function template instantiation 'T Matrix<T>::operator ()(int,int)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\MiniProjekt.cpp(16): message : see reference to class template instantiation 'Matrix<int>' being compiled
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(449,10): warning C4244: 'return': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(444): message : while compiling class template member function 'T Matrix<T>::dotProduct(const Matrix<T> &,int *)'
+          with
+          [
+              T=int
+          ]
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\MiniProjekt.cpp(68): message : see reference to function template instantiation 'T Matrix<T>::dotProduct(const Matrix<T> &,int *)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(453,10): warning C4244: 'return': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(605,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(563): message : while compiling class template member function 'void Matrix<int>::readFromFile(std::string,int *)'
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\MiniProjekt.cpp(17): message : see reference to function template instantiation 'void Matrix<int>::readFromFile(std::string,int *)' being compiled
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(613,31): warning C4101: 'e': unreferenced local variable
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(395,10): warning C4244: 'return': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(391): message : while compiling class template member function 'T Matrix<T>::getElement(int,int,int *)'
+          with
+          [
+              T=int
+          ]
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(246): message : see reference to function template instantiation 'T Matrix<T>::getElement(int,int,int *)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(73): message : while compiling class template member function 'Matrix<int>::Matrix(int,int,int *)'
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\MiniProjekt.cpp(106): message : see reference to function template instantiation 'Matrix<int>::Matrix(int,int,int *)' being compiled
+C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\MiniProjekt\Matrix.h(399,10): warning C4244: 'return': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  MiniProjekt.vcxproj -> C:\Users\uzare\source\repos\Matrix Calculations\MiniProjekt\x64\Debug\MiniProjekt.exe
